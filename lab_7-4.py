@@ -23,6 +23,7 @@ Ensure your code runs accurately
 
 """
 # lab_7-4.py
+
 # Author: Andrew Tkacs
 
 def find_sum(num1, num2):
